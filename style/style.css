@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#caras{
+    display: flex;
+    align-items: center;
+}
+
+.principal{
+    display: flex;
+    flex-direction: column;
+}
+
+#botones{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 100px;
+}
